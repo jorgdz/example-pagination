@@ -1,0 +1,22 @@
+{
+    "name": "jdzm/example-pagination",
+    "description": "Example pagination",
+    "type": "project",
+    "require": {
+        "illuminate/database": "5.8",
+        "jdzm/jdz-paginator": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"   
+        }
+    },
+    "authors": [
+        {
+            "name": "Jorge Diaz Montoya",
+            "email": "jdzm@outlook.es"
+        }
+    ],
+    "minimum-stability": "dev"
+}
