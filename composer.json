@@ -3,7 +3,7 @@
     "description": "Example pagination",
     "type": "project",
     "require": {
-        "illuminate/database": "5.8",
+        "illuminate/database": "6.20.12",
         "jdzm/jdz-paginator": "dev-master"
     },
     "license": "MIT",
